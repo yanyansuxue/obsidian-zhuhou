@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6d2269da02173c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b82b82d8662941b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb2528f70a36131f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d62b9759b6ba831f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4f6172c4b628fde5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "020f86942b398cf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a11244fd120fb1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16c60ea9a5d1e1c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "b4132ea1d89a990e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "90256f503f3b0771",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "66f6dcf649ce27d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "f0eb6d00c92c86e5",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {},
+              "icon": "cloud",
+              "title": "QuickShare"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "digitalgarden:Digital Garden Publication Center": false,
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "pkmer:Open Pkmer Market": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "cb2528f70a36131f",
+  "lastOpenFiles": [
+    "诛侯/人物档案/燕冉.md",
+    "诛侯/人物档案/燕胥.md",
+    "诛侯/人物档案/燕偃.md",
+    "诛侯/人物档案/商长嬴.md",
+    "诛侯/人物档案/商荷华.md",
+    "诛侯/人物档案/商玖.md",
+    "诛侯/人物档案/商婵.md",
+    "诛侯/人物档案/向雎.md",
+    "诛侯/attachments/d796d91ae6598d5bad2ac82d408f31b8.jpg",
+    "诛侯/剧情/主线.md",
+    "诛侯/概况/简介.md",
+    "诛侯/概况/目录.md",
+    "诛侯/人物档案",
+    "诛侯/attachments",
+    "诛侯/剧情",
+    "诛侯/概况",
+    "诛侯",
+    "obsidian-zhuhou/诛侯/概况/简介.md",
+    "obsidian-zhuhou/诛侯/概况/目录.md",
+    "obsidian-zhuhou/诛侯/人物档案/燕冉.md",
+    "obsidian-zhuhou/诛侯/人物档案/燕胥.md",
+    "obsidian-zhuhou/诛侯/人物档案/燕偃.md",
+    "obsidian-zhuhou/诛侯/剧情/主线.md",
+    "obsidian-zhuhou/诛侯/人物档案/商长嬴.md",
+    "obsidian-zhuhou/诛侯/人物档案/向雎.md",
+    "obsidian-zhuhou/诛侯/人物档案/商荷华.md",
+    "obsidian-zhuhou/诛侯/人物档案/商玖.md",
+    "obsidian-zhuhou/诛侯/人物档案/商婵.md",
+    "obsidian-zhuhou/诛侯/attachments/d796d91ae6598d5bad2ac82d408f31b8.jpg",
+    "obsidian-zhuhou/诛侯/概况",
+    "obsidian-zhuhou/诛侯/剧情",
+    "obsidian-zhuhou/诛侯/人物档案",
+    "obsidian-zhuhou/诛侯/attachments",
+    "obsidian-zhuhou/诛侯",
+    "削胛鹄颈，峻准深目，只是披发赤足，骊发淌落腰间，愈多了些雌雄莫辨的意味。他迎风而立，轻咳两声，缁与素在对比下愈发鲜明，如见一座幽幽明灭在雪中的莲花铜灯。.md",
+    "诛侯/简介/未命名.md",
+    "诛侯/简介/未命名看板.md",
+    "库/诛侯/attachments/d796d91ae6598d5bad2ac82d408f31b8.jpg",
+    "a51362136598a6a7abb159417d7a3fec.jpg",
+    "d796d91ae6598d5bad2ac82d408f31b8.jpg",
+    "4e4842bd2fe90be07582686a086696cd.jpg"
+  ]
+}

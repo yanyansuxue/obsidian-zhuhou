@@ -1,0 +1,36 @@
+ /*
+ * @Author: cumany cuman@qq.com
+ * @Source: Pkmer.cn
+*/
+/******callout bookinfo*****/
+.callout.callout[data-callout*="bookinfo"] {
+  --callout-color: 64, 201, 75;
+  --callout-icon: lucide-book-open;
+  overflow: unset;
+  border: 0;
+  width: auto;
+ 
+}
+.callout.callout[data-callout*=bookinfo] .callout-title {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.callout.callout[data-callout*=bookinfo] .callout-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.callout.callout[data-callout*=bookinfo] .callout-content table {
+  width: 68%;
+  margin-left: 2%;
+  word-break: normal;
+}
+.callout.callout[data-callout*=bookinfo] .callout-content table tr th {
+  padding-right: 5px;;
+}
+.callout.callout[data-callout*=bookinfo] .callout-content td:nth-child(2) {
+  display: table-cell;
+  overflow: hidden;
+}

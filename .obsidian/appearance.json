@@ -1,0 +1,18 @@
+{
+  "accentColor": "",
+  "cssTheme": "Border",
+  "theme": "moonstone",
+  "textFontFamily": "Alegreya,思源屏显臻宋 CN,京華老宋体",
+  "interfaceFontFamily": "思源屏显臻宋 CN,京華老宋体",
+  "monospaceFontFamily": "Alegreya",
+  "enabledCssSnippets": [
+    "笔迹页内标题居中",
+    "加粗粗体样式优化",
+    "分割线优化",
+    "列表属性色块显示",
+    "callout样式-自定义排版",
+    "timeline改色",
+    "自定义callout",
+    "使用callout进行正文旁注"
+  ]
+}
